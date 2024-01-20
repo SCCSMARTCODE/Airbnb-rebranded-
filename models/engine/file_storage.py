@@ -71,6 +71,3 @@ class FileStorage:
         the JSON file to objects
         """
         self.reload()
-file_storage.py [unix] (15:44 20/01/2024)                                                73,1 Bot
-
-
